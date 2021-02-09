@@ -1,0 +1,43 @@
+
+
+<!--TESTIMONIAL-->
+
+<section id="Testimonials">
+  <div class="title-text">
+    <p>Testimonial</p>
+    <h1>The Best Outcome</h1>
+  </div>
+    <div class="Testimonial-row">
+      <div class="Testimonial-column">
+        <div class="userimg">
+          <img src="images/img-1.jpg">
+          <div class="userinfo">
+            <h4>Brook Cagle</h4>
+             <small>@Bcagle<i class="fa fa-twitter"> </i></small>
+          </div>
+        </div>
+        <p>"I completely recommend this salon to everyone! They have the best customer service and their work is phenomenol! they pay close attention to detail and their prices are great!!! Thank you for doing an amazing job!"</p>
+      </div>
+      <div class="Testimonial-column">
+                <div class="userimg">
+          <img src="images/img-2.jpg">
+          <div class="userinfo">
+            <h4>Ayo Ogunseinde</h4>
+             <small>@AyOgun<i class="fa fa-twitter"> </i></small>
+          </div>
+        </div>
+        <p>"I went to this salon just a few weeks ago and I got a cut,color & highlight. First of all the salon was very nice and clean... but most importantly my hair looks great!!! If you are looking for a good salon.... go here!" </p>
+      </div>
+      <div class="Testimonial-column">
+                <div class="userimg">
+          <img src="images/img-3.jpg">
+          <div class="userinfo">
+            <h4>Ian Dolly</h4>
+             <small>@Idolly <i class="fa fa-twitter"> </i></small>
+          </div>
+        </div>
+       <p>Great scalp massages. Easy on-line appointment bookings with evening hours available. Friendly staff and reasonable prices for their services".</p>
+      </div>
+    </div>
+
+</section>
